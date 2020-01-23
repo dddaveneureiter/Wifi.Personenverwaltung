@@ -1,0 +1,10 @@
+C:\Solutions\Wifi.Data.PersVer\bin\Debug\Wifi.Data.PersVer.dll
+C:\Solutions\Wifi.Data.PersVer\bin\Debug\Wifi.Data.PersVer.pdb
+C:\Solutions\Wifi.Data.PersVer\obj\Debug\Wifi.Data.PersVer.dll
+C:\Solutions\Wifi.Data.PersVer\obj\Debug\Wifi.Data.PersVer.pdb
+C:\Solutions\Wifi.Data.PersVer\obj\Debug\Wifi.Data.PersVer.csprojAssemblyReference.cache
+C:\C#\Project\WifiPersonenverwaltung\Wifi.Data.PersVer\bin\Debug\Wifi.Data.PersVer.dll
+C:\C#\Project\WifiPersonenverwaltung\Wifi.Data.PersVer\bin\Debug\Wifi.Data.PersVer.pdb
+C:\C#\Project\WifiPersonenverwaltung\Wifi.Data.PersVer\obj\Debug\Wifi.Data.PersVer.csprojAssemblyReference.cache
+C:\C#\Project\WifiPersonenverwaltung\Wifi.Data.PersVer\obj\Debug\Wifi.Data.PersVer.dll
+C:\C#\Project\WifiPersonenverwaltung\Wifi.Data.PersVer\obj\Debug\Wifi.Data.PersVer.pdb
